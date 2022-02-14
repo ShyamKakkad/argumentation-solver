@@ -40,6 +40,3 @@ Parse an example TGF file
 java -jar target/argumentation-solver-0.0.1-SNAPSHOT.jar -f input/figure2.tgf
 ```
 
-## Notes ##
-
-**Preview version:** can read files but does not yet calculate extensions
